@@ -1,3 +1,7 @@
 *.ipynb_checkpoints
 *__MAC*
 .DS_Store
+.virtual_documents
+**.virtual_documents/*
+./*/.virtual_documents
+**/.virtual_documents/
